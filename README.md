@@ -6,7 +6,7 @@ Projeto completo feito para apresentação de um CASE de uma empresa de RH.
 
 ## Sobre o Projeto 
 Fui convidado a realizar um desafio para uma vaga de emprego, foi uma experiência nova e ao mesmo tempo muito positiva, o fato de fazer tudo que eu aprendi com um propósito real foi desafiador. 
-O teste era simples, Uma base de dados "danificada" com diversos dados "errados" e "faltantes" para testar meu conhecimento em *ETL*, e na sequÊncia com os ajustes feios então entrar na etapa de criação do DASHBOARD. Como eu não tinha nenhuma pergunta para responder diretamente ao recrutador com o PBI, então criei situações fictícias respondendo à diversas perguntas e trazendo possíveis soluções que poderiam ser utéis com os dados fornecidos. 
+O teste era simples, Uma base de dados "danificada" com diversos dados "errados" e "faltantes" para testar meu conhecimento em *ETL*, e na sequência com os ajustes feitos, então entramos na etapa de criação do DASHBOARD. Como eu não tinha nenhuma pergunta para responder diretamente ao recrutador com o PBI, criei situações fictícias respondendo à diversas perguntas e trazendo possíveis soluções que poderiam ser utéis com os dados fornecidos. 
 
 #Inicio do projeto
 - A parte de *ETL* desse projeto foi desenvolvida totalmente no POWER-QUERY e suas multiplas funções.
